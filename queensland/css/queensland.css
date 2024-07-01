@@ -121,9 +121,11 @@ body{
   outline: none;
   background: rgba(255, 255, 255, 0.3);
 }
-.btn-circle:visited{
+/* Empty btn css code, not sure if needed? Commenting out for the time being
+/*.btn-circle:visited{
 
 }
+*/
 
 #graphic {
   padding-top: 20px;
