@@ -11,3 +11,4 @@ To dos:
 4. Add a hovering menu bar at all stages, with clickable years
 5. Look at improving layout for mobile, modernisation improvements to the jQuery library?
 
+Test if the commit git sync is working in both directions.
